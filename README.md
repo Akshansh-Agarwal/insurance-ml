@@ -39,25 +39,7 @@ rather than directly predicting the number or severity of claims.
 
 ### Features
 
-The final model uses **23 input features**, including:
-
-* Policyholder age
-* Gender
-* Marital status
-* Nationality
-* No-claims discount
-* Driving licence duration
-* Vehicle age
-* Vehicle type
-* Vehicle colour
-* Deductible
-* Geographic region
-* Lease year
-* Additional-driver information
-
-Several features relating to the policyholder and vehicle at policy inception were also included.
-
-Geographic regions were derived from the first two digits of the available ZIP code.
+The final model uses **23 input features**, including policyholder/driver demographic factors, vehicle specific factors and coverage specific factors. 
 
 ## Train / Validation / Test Split
 
