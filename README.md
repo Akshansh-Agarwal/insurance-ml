@@ -37,7 +37,7 @@ P(at least one claim | policy characteristics)
 
 rather than directly predicting the number or severity of claims.
 
-### Features
+## Features
 
 The final model uses **23 input features**, including policyholder/driver demographic factors, vehicle specific factors and coverage specific factors. 
 
