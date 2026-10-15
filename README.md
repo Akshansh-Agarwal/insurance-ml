@@ -21,7 +21,7 @@ The project covered the full modeling pipeline:
 
 ## Dataset
 
-The modeling dataset contains approximately **250,000 motor insurance policies** written between November 2021 and September 2025.
+The modeling dataset contains approximately **175,000 motor insurance policies** written between November 2021 and September 2025.
 
 The binary target is:
 
